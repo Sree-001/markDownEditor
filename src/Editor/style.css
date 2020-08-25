@@ -1,0 +1,9 @@
+.notepad{
+    white-space: pre-line;
+    padding: 1em;
+}
+
+.notepad:active, .notepad:focus{
+    outline: 1px solid lightskyblue;
+    border:none;
+}

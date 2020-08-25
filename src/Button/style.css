@@ -1,0 +1,10 @@
+.action-btn{
+    cursor: pointer;
+    border:none;
+    background:inherit;
+    transition: all ease-out 0.5s;
+}
+
+.action-btn:hover{
+    font-size: large;
+}
