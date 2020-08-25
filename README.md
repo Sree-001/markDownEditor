@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Steps to run the code. 
 
- > 1)  `git clone   [url](#)  markDown` 
+ > 1)  `git clone   https://github.com/Sree-001/markDownEditor.git markDown` 
   
  > 2)  `cd markDown && npm install ` 
 
